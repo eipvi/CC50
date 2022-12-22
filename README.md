@@ -2,7 +2,7 @@
 <p> Ciência da Computação associa teoria e prática para propiciar ao estudante a aprendizagem de técnicas direcionadas à resolução de problemas reais.</p>
 <p> As aulas abordam diferentes temas, que ajudaram no entimento geral sobre funcionamento das principas tecnologias do mercado. </p>
  
-<h2>➡ Assuntos abordado no treinamento:</h2>	
+<h2>➡ Assuntos abordados no treinamento:</h2>	
 
 <h3></h3>
 <p>▪ O que é ciência da computação, Representando números, Texto, Imagens, videos e sons, Algoritmos, Pseudocodigo, Scratch;</p>
